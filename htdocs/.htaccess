@@ -1,0 +1,5 @@
+ErrorDocument 400 http://dexrn.rf.gd/error400.html
+ErrorDocument 401 http://dexrn.rf.gd/error401.html
+ErrorDocument 403 http://dexrn.rf.gd/error403.html
+ErrorDocument 404 http://dexrn.rf.gd/not_found.html
+ErrorDocument 503 http://dexrn.rf.gd/error503.html
